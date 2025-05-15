@@ -1,0 +1,6 @@
+nemo-toolkit[asr]
+bark
+gradio
+scipy
+numpy
+PyPDF2 
